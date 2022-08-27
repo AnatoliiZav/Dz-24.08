@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\Dz-41.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\Dz-41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\Dz-41.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\Dz-41.AssemblyInfo.cs
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\Dz-41.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\bin\MCD\Debug\net6.0\Dz-41.exe
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\bin\MCD\Debug\net6.0\Dz-41.deps.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\bin\MCD\Debug\net6.0\Dz-41.runtimeconfig.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\bin\MCD\Debug\net6.0\Dz-41.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\bin\MCD\Debug\net6.0\Dz-41.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\Dz-41.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\refint\Dz-41.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\Dz-41.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\Dz-41.genruntimeconfig.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\Dz-24.08\Dz-41\obj\MCD\Debug\net6.0\ref\Dz-41.dll
